@@ -6,10 +6,11 @@ Full-service Studio For Startups And Established Business. Development Services 
 
 ## Main stack
 - JavaScript. React, Next.js, Redux, Typescript, Jest, Tailwind, Gulp, Webpack etc
-- PHP. Laravel
+- PHP. Laravel, Wordpress
 - Python. Django
 - Devops. AWS, Docker, Jenkins, Kubernetes, Azure, Vargant
 - Mobile development. React native, Kotlin, Swift, Flutter
+- Webflow
 - [See full development stack](https://www.canva.com/design/DAEwvqzKl9Y/7-YmIzCT-wMEafmyj9eFbQ/view)
 
 
