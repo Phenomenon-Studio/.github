@@ -4,9 +4,6 @@ Full-service Studio For Startups And Established Business. Development Services 
 
 ![Banner](https://phenomenonstudio.com/wp-content/uploads/2022/06/YouTube-cover-2048x1152-1.png)
 
-![Banner](https://phenomenonstudio.com/wp-content/uploads/2022/07/webflow_gif.gif)
-
-
 ## Main stack
 - JavaScript. React, Next.js, Redux, Typescript, Jest, Tailwind, Gulp, Webpack etc
 - PHP. Laravel, Wordpress
