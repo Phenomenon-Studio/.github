@@ -1,6 +1,6 @@
 # Hi there
 
-Full-service Studio For Startups And Established Business. Development Services & UX/UI Design
+Phenomenon is a digital product studio bolstering a core team of world-class developers, designers, and a flexible network of multi-specialized talent. With our tried-and-true collaborative approach, we work with companies to build what they need to achieve their goals and provide real value to end-users.
 
 ![Banner](https://phenomenonstudio.com/wp-content/uploads/2022/07/Git.png)
 
