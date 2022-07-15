@@ -17,7 +17,7 @@ Phenomenon is a digital product studio bolstering a core team of world-class dev
 
 ## Find out more about us here
 
-- [Our Site](https://phenomenonstudio.com/?utm_source=github&utm_medium=smm&utm_campaign=page)
+- [website](https://phenomenonstudio.com/?utm_source=github&utm_medium=smm&utm_campaign=page)
 - [Behance](https://www.behance.net/phenomenon-studio)
 - [Dribbble](https://dribbble.com/phenomenonstudio/)
 - [Medium](https://phenomenon-studio.medium.com/)
